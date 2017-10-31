@@ -1,0 +1,11 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\bin\Debug\netcoreapp2.0\Data.Context.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\bin\Debug\netcoreapp2.0\Data.Context.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\bin\Debug\netcoreapp2.0\Data.Context.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\bin\Debug\netcoreapp2.0\Data.Entities.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\bin\Debug\netcoreapp2.0\Data.Entities.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\obj\Debug\netcoreapp2.0\Data.Context.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\obj\Debug\netcoreapp2.0\Data.Context.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\obj\Debug\netcoreapp2.0\Data.Context.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\obj\Debug\netcoreapp2.0\Data.Context.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\obj\Debug\netcoreapp2.0\Data.Context.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data\obj\Debug\netcoreapp2.0\Data.Context.pdb

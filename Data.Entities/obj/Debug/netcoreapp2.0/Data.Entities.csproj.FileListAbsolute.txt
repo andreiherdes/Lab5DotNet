@@ -1,0 +1,9 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\bin\Debug\netcoreapp2.0\Data.Entities.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\bin\Debug\netcoreapp2.0\Data.Entities.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\bin\Debug\netcoreapp2.0\Data.Entities.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\obj\Debug\netcoreapp2.0\Data.Entities.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\obj\Debug\netcoreapp2.0\Data.Entities.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\obj\Debug\netcoreapp2.0\Data.Entities.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\obj\Debug\netcoreapp2.0\Data.Entities.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\obj\Debug\netcoreapp2.0\Data.Entities.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Data.Entities\obj\Debug\netcoreapp2.0\Data.Entities.pdb

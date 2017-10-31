@@ -1,0 +1,15 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApplication6.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApplication6.runtimeconfig.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApplication6.runtimeconfig.dev.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApplication6.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApplication6.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApplication6.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApplication6.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApplication6.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApplication6.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApplication6.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Data.pdb

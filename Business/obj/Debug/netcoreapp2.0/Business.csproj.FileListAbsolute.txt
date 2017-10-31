@@ -1,0 +1,24 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Business.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Business.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Data.Context.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Data.Entities.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Data.Context.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\bin\Debug\netcoreapp2.0\Data.Entities.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\Business\obj\Debug\netcoreapp2.0\Business.pdb

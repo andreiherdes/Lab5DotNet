@@ -1,0 +1,17 @@
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApp.csprojResolveAssemblyReference.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfo.cs
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApp.deps.json
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.json
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApp.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\WebApp.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Business.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Data.Context.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Data.Entities.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Business.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Data.Context.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\bin\Debug\netcoreapp2.0\Data.Entities.pdb
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApp.dll
+F:\Andrei\Facultate\an3-sem1\dotNet\WebApplication6\WebApplication6\obj\Debug\netcoreapp2.0\WebApp.pdb
